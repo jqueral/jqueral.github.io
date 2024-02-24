@@ -12,7 +12,7 @@ email: julianoqueral@gmail.com
 website: https://jqueral.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: julianoqueralt
@@ -22,7 +22,7 @@ github_username:  jqueral
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jqueral
-linkedin_username: julianoqueral
+linkedin_username: https://www.linkedin.com/in/juliano-queral-7b6653129/
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
