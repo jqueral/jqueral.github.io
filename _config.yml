@@ -114,12 +114,12 @@ content:
   - title: Un Poco Más Acerca de Mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Junto a mis intereses en trading y la intersección entre la matemática/estadística con los mercados financieros, algunos de mis otros intereses y pasatiempos son
       - Go
       - Gaming
       - Futbol
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      - Arte 
+      - Arte
+      - Los puzzles mensuales de Jane Street
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
